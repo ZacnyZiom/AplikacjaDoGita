@@ -6,3 +6,5 @@ for row in range(10):
         print(f'|{comp_ships[row][col]}', end='')
     print('|')
 
+print('Podaj wspolrzedne strzalu (wiersz i kolumna): ')
+
