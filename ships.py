@@ -7,4 +7,4 @@ for row in range(10):
     print('|')
 
 print('Podaj wspolrzedne strzalu (wiersz i kolumna): ')
-
+row_col = input()
